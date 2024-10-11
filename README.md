@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/nmdyzM7/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Ujjal Mondal</h1>
 <h3 align="center">A passionate DATA ANALYST from India</h3>
 
